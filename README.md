@@ -16,7 +16,7 @@ of the [license](LICENSE), which, in short, requires the following:
 - Publishing your modified design under the same license.
 
 If following these terms presents an undue hardship for whatever reason, feel free to contact me
-by [opening an issue](../issues/new/choose), and I'll either point you towards more permissively
+by [opening an issue](../../issues/new), and I'll either point you towards more permissively
 licensed alternatives or potentially issue a dual license.
 
 ## Table of Contents
