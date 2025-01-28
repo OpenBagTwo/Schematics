@@ -21,6 +21,13 @@ licensed alternatives or potentially issue a dual license.
 
 ## Table of Contents
 
+### AChromoss Moss, Pale Moss and Bonemeal Farm
+
+A modified version of the Chromoss farm designed by
+[**@maidofmoss**](https://www.youtube.com/@maidofmoss) (an official build tutorial can be found
+[here](https://www.youtube.com/watch?v=eNYZiuVNBe0)) that's been reworked to collect pale
+and regular moss in addition to outputting bonemeal.
+
 ### Mothership Resin Farm
 
 Based on [a tutorial by Xisumavoid](https://www.youtube.com/watch?v=Usfxg7UCzks), this is my
