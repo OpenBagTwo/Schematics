@@ -36,3 +36,8 @@ hearts.
 
 This farm is heavily constrained by my own personal use case, and I would not recommend using
 it for anything more than inspiration.
+
+### Shuffleboard
+
+Shuffleboard in Minecraft using the new ~~Happy Slimes~~ Sulfur Cubes. Includes a "vs. CPU" mode.
+Tutorial and overview can be found [here](https://youtu.be/TQMbAmTqa-c)
